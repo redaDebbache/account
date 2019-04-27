@@ -1,4 +1,6 @@
+pretest-tdd.iml
 .classpath
 .settings
 .project
+.idea/*
 target/
